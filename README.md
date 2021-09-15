@@ -1,2 +1,0 @@
-# DelaPlex
-Practice Purpose only
